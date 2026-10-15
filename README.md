@@ -1,9 +1,4 @@
 # IT-Support--toolkit
-windows in-built menu
-IT-Support-Toolkit/
-├── IT_Support_Toolkit.bat
-├── README.md
-└── screenshots/
 Project: IT Support Toolkit
 Purpose: Automates basic Windows diagnostics using Batch scripting.
 Features:
